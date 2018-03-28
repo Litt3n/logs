@@ -1,0 +1,58 @@
+19:54:42 BattlEye Server: Initialized (v1.217)
+19:54:42 Идентификатор сервера создан
+19:54:42 Game Port: 2302, Steam Query Port: 2303
+19:56:52 asd использует измененный файл данных
+19:56:52 BattlEye Server: Player #0 asd (178.91.17.38:43848) connected
+19:56:52 Игрок asd соединяется.
+19:56:52 Задание DayZ Epoch Chernarus считывается из папки.
+19:57:37 Player  kicked off by BattlEye: Client not responding
+19:57:37 Игрок asd отсоединился.
+19:57:37 Все игроки отсоединились, ожидаю игроков.
+19:58:04 asd использует измененный файл данных
+19:58:04 BattlEye Server: Player #0 asd (178.91.17.38:43848) connected
+19:58:04 Игрок asd соединяется.
+19:58:04 Задание DayZ Epoch Chernarus считывается из папки.
+19:58:06 BattlEye Server: Player #0 asd - Legacy GUID: b016daeadf73542db1b4cbd552be1c7d
+19:58:07 BattlEye Server: Player #0 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+19:58:07 Игрок asd присоединился (id=76561198022884892).
+19:58:07 BattlEye Server: Verified GUID (763686c1d0f060e928458742450f05e7) of player #0 asd
+19:58:08 BattlEye Server: Player #0 asd - Legacy GUID: b016daeadf73542db1b4cbd552be1c7d
+19:58:19 Роли назначены.
+19:58:19 Чтение задания...
+19:58:25 Задание загружено.
+19:58:27 Игра начата.
+19:59:08 Karel10 использует измененный файл данных
+19:59:08 BattlEye Server: Player #1 Karel10 (217.66.157.120:35986) connected
+19:59:08 Игрок Karel10 соединяется.
+19:59:09 BattlEye Server: Player #1 Karel10 - BE GUID: 6b90a45adbd16f9978f15e816fb80392
+19:59:10 BattlEye Server: Player #1 Karel10 - Legacy GUID: e664005a3968148b42e30a6f054cec2d
+19:59:13 Игрок Karel10 присоединился (id=76561198106040665).
+19:59:13 BattlEye Server: Verified GUID (6b90a45adbd16f9978f15e816fb80392) of player #1 Karel10
+20:04:26 Player asd kicked off by BattlEye: Client not responding
+20:04:26 Игрок asd отсоединился.
+20:05:20 Игрок Karel10: обрыв связи.
+20:05:26 Игрок Karel10: вышло время на проверку подписи.
+20:05:26 Игрок Karel10 отсоединился.
+20:05:26 BattlEye Server: Player #1 Karel10 disconnected
+20:11:13 asd использует измененный файл данных
+20:11:13 BattlEye Server: Player #0 asd (178.91.17.38:43848) connected
+20:11:13 Игрок asd соединяется.
+20:11:35 BattlEye Server: Player #0 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+20:11:36 Игрок asd присоединился (id=76561198022884892).
+20:11:36 BattlEye Server: Verified GUID (763686c1d0f060e928458742450f05e7) of player #0 asd
+20:11:37 BattlEye Server: Player #0 asd - Legacy GUID: b016daeadf73542db1b4cbd552be1c7d
+20:28:04 Alien использует измененный файл данных
+20:28:04 BattlEye Server: Player #1 Alien (85.26.235.238:57504) connected
+20:28:04 Игрок Alien соединяется.
+20:28:05 BattlEye Server: Player #1 Alien - BE GUID: 259a363686f5c9316f93757f8484bbda
+20:28:06 Игрок Alien присоединился (id=76561198191874849).
+20:28:06 BattlEye Server: Verified GUID (259a363686f5c9316f93757f8484bbda) of player #1 Alien
+20:28:06 BattlEye Server: Player #1 Alien - Legacy GUID: e91be7b67d00fb23b9ac2b86a47c116f
+20:30:13 BattlEye Server: (Side) asd: Привет
+20:30:22 BattlEye Server: (Side) Alien: Привет! 
+20:30:38 BattlEye Server: (Side) Alien: А, я гляжу, все без изменений? )))
+20:30:56 BattlEye Server: (Side) Alien: А! Теперь боты есть!
+20:31:09 BattlEye Server: (Side) Alien: А лута как не было, так и нет)))
+20:34:52 BattlEye Server: (Side) Alien: Что с лутом творится? )))
+20:35:07 BattlEye Server: (Side) asd: ?
+20:35:30 BattlEye Server: (Side) Alien: Меняется на глазах, ис

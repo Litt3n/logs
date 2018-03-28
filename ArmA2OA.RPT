@@ -1,0 +1,306 @@
+Unsupported language Russian in stringtable
+"PRELOAD_ Functions\init [[L 1-1-A:1 REMOTE],any]"
+"MPframework inited"
+"Basic config loaded! GTS Version: 0.7. Server Name: New RU 10 Sector-High Loot-Bank-Patrol-Mission."
+"[DZAI] Initializing DZAI Client Addon version 1.0.0."
+"z\addons\dayz_code\system\antihack.sqf: Plants libs tests done!"
+Addon mbg_killhouses (entry MBG_Killhouse_3_InEditor) not found in the list of active addons.
+Warning Message: Вы не можете играть/редактировать это задание, так как оно зависит от скачиваемого контента, который был удален.
+mbg_killhouses
+Addon mbg_killhouses (entry Land_MBG_Shoothouse_1) not found in the list of active addons.
+Warning Message: Вы не можете играть/редактировать это задание, так как оно зависит от скачиваемого контента, который был удален.
+mbg_killhouses
+Addon mbg_killhouses (entry Land_MBG_Shoothouse_1) not found in the list of active addons.
+Warning Message: Вы не можете играть/редактировать это задание, так как оно зависит от скачиваемого контента, который был удален.
+mbg_killhouses
+"Res3tting B!S effects..."
+["Sent to server: PVDZ_plr_Login1",["76561198022884892",B 1-1-A:1 (asd)]]
+["Sent to server: PVDZ_send",[B 1-1-A:1 (asd),"dayzSetDate",[B 1-1-A:1 (asd)]]]
+"PLAYER RESULT: true"
+["Sent to server: PVDZ_plr_Login2",["1",B 1-1-B:1 (asd),"76561198022884892",9,[["VSS_vintorez","ItemGPS","ItemRadio","ItemMap","ItemCompass","ItemKeyRed1793","ItemToolbox","ItemEtool"],["20Rnd_9x39_SP5_VSS","20Rnd_9x39_SP5_VSS","20Rnd_9x39_SP5_VSS","20Rnd_9x39_SP5_VSS","Skin_Sniper1_DZ","FoodBeefCooked","ItemBloodbag","ItemPainkiller","ItemAntibiotic","ItemMorphine","ItemEpinephrine"],""]]]
+[2120.56,"mpmissions\__CUR_MP.Chernarus\custom\system\scheduler\sched_init.sqf","Scheduler started"]
+[2120.57,"z\addons\dayz_code\system\scheduler\sched_security.sqf","Some security routines inited"]
+["Date & time received:",[2012,8,2,13,58]]
+["Local date on this client:",[2012,8,2,13,58]]
+"<infiSTAR.de> randvar26 created (21.103)"
+"Sent to server PVDZ_plr_LoginRecord: [76561198022884892, 1, 0, asd]"
+[]
+"<infiSTAR.de> randvar1 started (21.271)"
+"player_forceSave called from fsm"
+"<infiSTAR.de> randvar1 created randvar27a (21.424)"
+"<infiSTAR.de> 06-08-2017 19-43-14-v1442 - Successfully Loaded on Client ID13252 (21.424)"
+"<infiSTAR.de> randvar1 created randvar27 (21.424)"
+No owner
+No owner
+MuzzleFlashROT - unknown animation source ammoRandom
+MuzzleFlashROT - unknown animation source ammoRandom
+Client: Object 4:20 (type Type_70) not found.
+Client: Object 4:19 (type Type_70) not found.
+[2341.37,"onPreloadStarted"]
+[2341.83,"onPreloadFinished"]
+"keyboard_keys reset"
+Unsupported language Russian in stringtable
+Addon mbg_killhouses (entry MBG_Killhouse_3_InEditor) not found in the list of active addons.
+Warning Message: Вы не можете играть/редактировать это задание, так как оно зависит от скачиваемого контента, который был удален.
+mbg_killhouses
+Addon mbg_killhouses (entry Land_MBG_Shoothouse_1) not found in the list of active addons.
+Warning Message: Вы не можете играть/редактировать это задание, так как оно зависит от скачиваемого контента, который был удален.
+mbg_killhouses
+Addon mbg_killhouses (entry Land_MBG_Shoothouse_1) not found in the list of active addons.
+Warning Message: Вы не можете играть/редактировать это задание, так как оно зависит от скачиваемого контента, который был удален.
+mbg_killhouses
+"Res3tting B!S effects..."
+"PRELOAD_ Functions\init [[L 1-1-A:1 REMOTE],any]"
+"MPframework inited"
+No owner
+MuzzleFlashROT - unknown animation source ammoRandom
+"Basic config loaded! GTS Version: 0.7. Server Name: New RU 10 Sector-High Loot-Bank-Patrol-Mission."
+Group B 1-1-A (0x321a2800) - network ID 2:2678
+ - no main subgroup
+Network simulation, time = 0.273
+Group B 1-1-A (0x321a2800) - network ID 2:2678
+ - no main subgroup
+Group B 1-1-A (0x321a2800) - network ID 2:2678
+ - no main subgroup
+Group B 1-1-A (0x321a2800) - network ID 2:2678
+ - no main subgroup
+Group B 1-1-A (0x321a2800) - network ID 2:2678
+ - no main subgroup
+Group B 1-1-A (0x321a2800) - network ID 2:2678
+ - no main subgroup
+Group B 1-1-A (0x321a2800) - network ID 2:2678
+ - no main subgroup
+Group B 1-1-A (0x321a2800) - network ID 2:2678
+ - no main subgroup
+"[DZAI] Initializing DZAI Client Addon version 1.0.0."
+["Sent to server: PVDZ_plr_Login1",["76561198022884892",B 1-1-A:1 (asd)]]
+["Sent to server: PVDZ_send",[B 1-1-A:1 (asd),"dayzSetDate",[B 1-1-A:1 (asd)]]]
+"PLAYER RESULT: true"
+[2947.8,"mpmissions\__CUR_MP.Chernarus\custom\system\scheduler\sched_init.sqf","Scheduler started"]
+["Sent to server: PVDZ_plr_Login2",["1",B 1-1-B:1 (asd),"76561198022884892",9,[["VSS_vintorez","ItemGPS","ItemRadio","ItemMap","ItemCompass","ItemKeyRed1793","ItemToolbox","ItemEtool"],["20Rnd_9x39_SP5_VSS","20Rnd_9x39_SP5_VSS","20Rnd_9x39_SP5_VSS","20Rnd_9x39_SP5_VSS","Skin_Sniper1_DZ","FoodBeefCooked","ItemBloodbag","ItemPainkiller","ItemAntibiotic","ItemMorphine","ItemEpinephrine"],""]]]
+[2947.91,"z\addons\dayz_code\system\scheduler\sched_security.sqf","Some security routines inited"]
+["Date & time received:",[2012,8,2,13,58]]
+["Local date on this client:",[2012,8,2,13,58]]
+"z\addons\dayz_code\system\antihack.sqf: Plants libs tests done!"
+"<infiSTAR.de> randvar26 created (2.676)"
+"Sent to server PVDZ_plr_LoginRecord: [76561198022884892, 1, 0, asd]"
+[]
+"<infiSTAR.de> randvar1 started (2.798)"
+"player_forceSave called from fsm"
+"<infiSTAR.de> randvar1 created randvar27a (2.911)"
+"<infiSTAR.de> 06-08-2017 19-43-14-v1442 - Successfully Loaded on Client ID13252 (2.911)"
+"<infiSTAR.de> randvar1 created randvar27 (2.911)"
+[2948.83,"onPreloadStarted"]
+[2949.83,"onPreloadFinished"]
+"keyboard_keys reset"
+Group B 1-1-A (0x49e25600) - network ID 2:2771
+ - no main subgroup
+Network simulation, time = 1801.755
+Group B 1-1-A (0x49e25600) - network ID 2:2771
+ - no main subgroup
+Group B 1-1-A (0x49e25600) - network ID 2:2771
+ - no main subgroup
+Group B 1-1-A (0x49e25600) - network ID 2:2771
+ - no main subgroup
+Group B 1-1-A (0x49e25600) - network ID 2:2771
+ - no main subgroup
+Group B 1-1-A (0x49e25600) - network ID 2:2771
+ - no main subgroup
+Group B 1-1-A (0x49e25600) - network ID 2:2771
+ - no main subgroup
+Group B 1-1-A (0x49e25600) - network ID 2:2771
+ - no main subgroup
+"BTC_Cannot_Lift:"
+"MF_Tow_Cannot_Tow:"
+2nd UV set needed, but not defined in ReportStack not available
+Group B 1-1-A (0x3c4b7700) - network ID 2:2876
+ - no main subgroup
+Network simulation, time = 2466.008
+Group B 1-1-A (0x3c4b7700) - network ID 2:2876
+ - no main subgroup
+Group B 1-1-A (0x3c4b7700) - network ID 2:2876
+ - no main subgroup
+Group B 1-1-A (0x3c4b7700) - network ID 2:2876
+ - no main subgroup
+Group B 1-1-A (0x3c4b7700) - network ID 2:2876
+ - no main subgroup
+Group B 1-1-A (0x3c4b7700) - network ID 2:2876
+ - no main subgroup
+Group B 1-1-A (0x3c4b7700) - network ID 2:2876
+ - no main subgroup
+Group B 1-1-A (0x3c4b7700) - network ID 2:2876
+ - no main subgroup
+Group B 1-1-A (0x5e2e5600) - network ID 2:2888
+ - no main subgroup
+Network simulation, time = 2552.546
+Group B 1-1-A (0x5e2e5600) - network ID 2:2888
+ - no main subgroup
+Group B 1-1-A (0x5e2e5600) - network ID 2:2888
+ - no main subgroup
+Group B 1-1-A (0x5e2e5600) - network ID 2:2888
+ - no main subgroup
+Group B 1-1-A (0x5e2e5600) - network ID 2:2888
+ - no main subgroup
+Group B 1-1-A (0x5e2e5600) - network ID 2:2888
+ - no main subgroup
+Group B 1-1-A (0x5e2e5600) - network ID 2:2888
+ - no main subgroup
+Group B 1-1-A (0x5e2e5600) - network ID 2:2888
+ - no main subgroup
+Client: Object 7:109 (type Type_94) not found.
+Client: Object 7:110 (type Type_94) not found.
+Client: Object 7:115 (type Type_94) not found.
+Client: Object 7:114 (type Type_70) not found.
+Warning Message: No entry 'bin\config.bin/CfgWeapons.L85_Holo_DZ'.
+Warning Message: No entry '.scope'.
+Warning Message: '/' is not a value
+Warning Message: Error: creating weapon L85_Holo_DZ with scope=private
+Warning Message: No entry '.displayName'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.nameSound'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.type'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.picture'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.Library'.
+Warning Message: No entry '.libTextDesc'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.model'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.simulation'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.fireLightDuration'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.fireLightIntensity'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.weaponLockDelay'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.weaponLockSystem'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.cmImmunity'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.lockingTargetSound'.
+Warning Message: Size: '/' not an array
+Warning Message: No entry '.lockedTargetSound'.
+Warning Message: Size: '/' not an array
+Warning Message: No entry '.muzzles'.
+Warning Message: Size: '/' not an array
+Group B 1-1-A (0x63708700) - network ID 2:2923
+ - no main subgroup
+Network simulation, time = 2729.418
+Group B 1-1-A (0x63708700) - network ID 2:2923
+ - no main subgroup
+Group B 1-1-A (0x63708700) - network ID 2:2923
+ - no main subgroup
+Group B 1-1-A (0x63708700) - network ID 2:2923
+ - no main subgroup
+Group B 1-1-A (0x63708700) - network ID 2:2923
+ - no main subgroup
+Group B 1-1-A (0x63708700) - network ID 2:2923
+ - no main subgroup
+Group B 1-1-A (0x63708700) - network ID 2:2923
+ - no main subgroup
+Group B 1-1-A (0x63708700) - network ID 2:2923
+ - no main subgroup
+Warning Message: No entry 'bin\config.bin/CfgWeapons.L85_Holo_DZ'.
+Warning Message: No entry '.scope'.
+Warning Message: '/' is not a value
+Warning Message: Error: creating weapon L85_Holo_DZ with scope=private
+Warning Message: No entry '.displayName'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.nameSound'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.type'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.picture'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.Library'.
+Warning Message: No entry '.libTextDesc'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.model'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.simulation'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.fireLightDuration'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.fireLightIntensity'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.weaponLockDelay'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.weaponLockSystem'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.cmImmunity'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.lockingTargetSound'.
+Warning Message: Size: '/' not an array
+Warning Message: No entry '.lockedTargetSound'.
+Warning Message: Size: '/' not an array
+Warning Message: No entry '.muzzles'.
+Warning Message: Size: '/' not an array
+"BTC_Cannot_Lift:"
+"MF_Tow_Cannot_Tow:"
+Warning Message: No entry 'bin\config.bin/CfgWeapons.L85_Holo_DZ'.
+Warning Message: No entry '.scope'.
+Warning Message: '/' is not a value
+Warning Message: Error: creating weapon L85_Holo_DZ with scope=private
+Warning Message: No entry '.displayName'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.nameSound'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.type'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.picture'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.Library'.
+Warning Message: No entry '.libTextDesc'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.model'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.simulation'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.fireLightDuration'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.fireLightIntensity'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.weaponLockDelay'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.weaponLockSystem'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.cmImmunity'.
+Warning Message: '/' is not a value
+Warning Message: No entry '.lockingTargetSound'.
+Warning Message: Size: '/' not an array
+Warning Message: No entry '.lockedTargetSound'.
+Warning Message: Size: '/' not an array
+Warning Message: No entry '.muzzles'.
+Warning Message: Size: '/' not an array
+Client: Object 9:148 (type Type_149) not found.
+MuzzleFlashROT - unknown animation source ammoRandom
+Client: Object 6:2135 (type Type_70) not found.
+2nd UV set needed, but not defined in ReportStack not available
+"BTC_Cannot_Lift:"
+"MF_Tow_Cannot_Tow:"
+Group B 1-1-A (0x67eaf100) - network ID 2:2993
+ - no main subgroup
+Network simulation, time = 3081.766
+Group B 1-1-A (0x67eaf100) - network ID 2:2993
+ - no main subgroup
+Group B 1-1-A (0x67eaf100) - network ID 2:2993
+ - no main subgroup
+Group B 1-1-A (0x67eaf100) - network ID 2:2993
+ - no main subgroup
+Group B 1-1-A (0x67eaf100) - network ID 2:2993
+ - no main subgroup
+Group B 1-1-A (0x67eaf100) - network ID 2:2993
+ - no main subgroup
+Group B 1-1-A (0x67eaf100) - network ID 2:2993
+ - no main subgroup
+Group B 1-1-A (0x67eaf100) - network ID 2:2993
+ - no main subgroup
+"BTC_Cannot_Lift:"
+"MF_Tow_Cannot_Tow:"
+"BTC_Cannot_Lift:"
+"MF_Tow_Cannot_Tow:"
+MuzzleFlashROT - unknown animation source ammoRandom
+MuzzleFlashROT - unknown animation source ammoRandom
